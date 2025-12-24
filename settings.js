@@ -1,4 +1,4 @@
-//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
+I//════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                                                                            //
 //                                                             𝐖𝐀𝐋𝐋𝐘𝐉𝐀𝐘𝐓𝐄𝐂𝐇-𝐌𝐃 𝐁𝐎𝐓                                                                         //
 //                                                                                                                                                            //
@@ -39,10 +39,10 @@ const settings = {
   packname: 'WALLYJAYTECH-MD',
   author: '‎Wally Jay',
   botName: "WALLYJAYTECH-MD",
-  botOwner: 'Wally Jay', 
+  botOwner: 'Jackson', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '2348144317152', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '2347086824990', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
